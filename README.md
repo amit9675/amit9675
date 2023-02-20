@@ -59,7 +59,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
  <h3 align="center">
   Visitor count <br>
   <!-- <img src="https://profile-counter.glitch.me/4shutoshbhardwaj/count.svg" /> -->
-  <img src="https://profile-counter.glitch.me/surajahirwar/count.svg" />
+  <img src="https://profile-counter.glitch.me/amit9675/count.svg" />
  </h3>
  <br />
  <br />
